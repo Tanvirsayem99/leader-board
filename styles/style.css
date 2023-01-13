@@ -83,6 +83,11 @@ nav{
         height: 6.5vh;
         
     }
+    .nav-bar{
+        display: flex;
+        justify-content: space-between;
+        gap: 80px;
+    }
     nav{
         width: 300px;
         margin: 0 auto;
@@ -102,7 +107,7 @@ nav{
     }
     .nav-2{
         display: flex;
-        gap: 40px;
+        gap: 15px;
         align-items: center;
     }
     .nav-2 a{
